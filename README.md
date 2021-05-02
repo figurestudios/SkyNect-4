@@ -7,16 +7,20 @@ You can try the latest official releases [here](https://skorn.hns.siasky.net/)
 
 # Local Setup
 Fork this project;
+
 Run $ npm install -g serve
+
 Run $ serve
+
 Open the localhost followed by the port shown in the console
+
+Source(if you want to edit anything) is [here](), as it's too big for github.
 
 # License
 MIT
 
 # Potential additions
-* MySky Stats
-* MySky Lobbies
+* MySky Lobbies(loop through a friendlist, check public disc. files for if your name is included in "want to join", publish their name, get matched)
 * Screenshots via DAC feeds
 * Public Lobbies via DAC feeds
 
