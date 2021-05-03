@@ -14,7 +14,8 @@ Run $ serve
 
 Open the localhost followed by the port shown in the console
 
-Source(if you want to edit anything) is [here](https://siasky.net/AACRth5hPkwuCIIr8im1AVv4EljkwcG_jS7h0dxXnQnZsQ), as it's too big for github.
+Source(if you want to edit anything) is [here](https://siasky.net/AACRth5hPkwuCIIr8im1AVv4EljkwcG_jS7h0dxXnQnZsQ) as it's too big for github.
+[Video Demo](https://youtu.be/XeSI652hl-w)
 
 # License
 MIT
