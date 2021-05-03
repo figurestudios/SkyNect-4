@@ -24,3 +24,15 @@ MIT
 * Screenshots via DAC feeds
 * Public Lobbies via DAC feeds
 
+# Special Thanks <3
+> Thanks to Danger#1924 for the sprites and massive help with UI/UX
+> 
+> Thanks to DaWe#6249 for providing the skorn/ & uppy/ domains
+> 
+> Thanks to Skunk_Ink#8907 for bidding/offering to give on the skynect4/ & skynect-4/ domains for me
+> 
+> Thanks to redsolver#0372 for helping me with general feedback
+> 
+> Thanks to everyone I've played against, reported bugs, & everyone who helped me get ideas for SkyGameSDK
+> 
+> Thanks to the Skynet Core Team for providing this opportunity
