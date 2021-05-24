@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "SkyGameSDK Example",
+"productVersion": "0.1",
+"dataUrl": "ConnectFourBuild.data.unityweb",
+"wasmCodeUrl": "ConnectFourBuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "ConnectFourBuild.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#131313",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.9f1"
+}
