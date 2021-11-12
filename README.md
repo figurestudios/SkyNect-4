@@ -5,7 +5,7 @@
 # Play
 You can try the latest official releases [here](https://skorn.hns.siasky.net/)
 
-[![Add to Homescreen](https://img.shields.io/badge/Skynet-Add%20To%20Homescreen-00c65e?logo=skynet&labelColor=0d0d0d)](https://homescreen.hns.siasky.net/#/skylink/sia://AABBppg41tQvyDC_-c3nQVDaVKuxR8Lb2G_jDs-QxxvWag)
+[![Add to Homescreen](https://img.shields.io/badge/Skynet-Add%20To%20Homescreen-00c65e?logo=skynet&labelColor=0d0d0d)](https://homescreen.hns.siasky.net/#/skylink/sia://AABO2Kmd1gCp89gR1M3jfZ2IG-xUti514KoKN1yL5P81JA)
 
 # Local Setup
 Fork this project;
